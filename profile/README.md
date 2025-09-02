@@ -65,7 +65,7 @@ Pryszm's core components are open source to establish industry standards for con
 
 We're building the future of conversational infrastructure and welcome contributions from developers, business experts, and organizations who understand the challenges of conversation-driven applications.
 
-**[Contributing Guidelines →](https://github.com/pryszm/pryszm/blob/main/CONTRIBUTING.md)**
+**[Contributing Guidelines →](https://github.com/pryszm/.github/blob/main/CONTRIBUTING.md)**
 
 ## License
 
