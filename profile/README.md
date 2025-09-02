@@ -69,7 +69,7 @@ We're building the future of conversational infrastructure and welcome contribut
 
 ## License
 
-Pryszm is released under the Apache License 2.0. See [LICENSE](https://github.com/pryszm/pryszm/blob/main/LICENSE) for details.
+Pryszm is released under the Apache License 2.0. See [LICENSE](https://github.com/pryszm/.github/blob/main/LICENSE) for details.
 
 ---
 
