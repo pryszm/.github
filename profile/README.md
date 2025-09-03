@@ -33,9 +33,9 @@ Pryszm turns conversations into structured data streams that empower tomorrow's 
 
 Pryszm's core components are open source to establish industry standards for conversational infrastructure:
 
-- **[Act Specification](https://github.com/pryszm/act-spec)**: Open standard for conversational state representation ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
-- **[Channel Adapters](https://github.com/pryszm/adapters)**: Connectors for communication platforms ![Status: Planned](https://img.shields.io/badge/Status-Planned-blue)
-- **[Schema Registry](https://github.com/pryszm/schemas)**: Community-contributed business entity definitions ![Status: Planned](https://img.shields.io/badge/Status-Planned-blue)
+- **[ASTRA](https://github.com/pryszm/astra)**: Act State Representation Architecture ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
+- **[CAP](https://github.com/pryszm/cap)**: Channel Access Protocol for communication platforms ![Status: Planned](https://img.shields.io/badge/Status-Planned-blue)
+- **[CSD](https://github.com/pryszm/csd)**: Conversational Schema Definitions ![Status: Planned](https://img.shields.io/badge/Status-Planned-blue)
 - **[Developer Tools](https://github.com/pryszm/devtools)**: Debugging and development utilities ![Status: Planned](https://img.shields.io/badge/Status-Planned-blue)
 
 ## Enterprise Features
